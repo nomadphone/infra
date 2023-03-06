@@ -1,1 +1,0 @@
-certbot certonly --manual --logs-dir letsencrypt/log/ --config-dir letsencrypt/config/ --work-dir letsencrypt/work/ --preferred-challenges=dns -m nomadphone@behindtherequests.com -d api.nomadphone.com.br
